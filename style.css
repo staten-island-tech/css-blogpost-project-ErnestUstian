@@ -1,0 +1,39 @@
+body{
+    background-image: url(Images/Steam.jpg);
+}
+body{
+    box-sizing: border-box;
+}
+.Title{
+    background-color: rgb(61, 61, 113);
+    padding: 5px 0;
+    height: 15vh;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    border: 5px solid black;
+}
+
+.Steam{
+    opacity: .66;
+    height: 50vh;
+    background-position: center;
+    border: 5px solid black;
+}
+.TerrariaImg{
+    display: block;
+    margin: auto;
+    width: 500px;
+}
+.Terraria{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    background-color: rgb(61, 61, 113);
+    height: 600px;
+    border: 5px solid black;
+    margin: 25px;
+}
+.TerrariaText{
+    margin: 25px;
+}
