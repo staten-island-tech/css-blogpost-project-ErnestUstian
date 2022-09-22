@@ -1,17 +1,18 @@
 body{
     background-image: url(Images/Steam.jpg);
-}
-body{
-    box-sizing: border-box;
+    align-items: center;
+    margin: auto;
+    font-family: 'Comic Neue', cursive;
 }
 .Title{
     background-color: rgb(61, 61, 113);
     padding: 5px 0;
     height: 15vh;
     text-align: center;
-    color: white;
+    color: rgb(228, 221, 221);
     font-size: 25px;
     border: 5px solid black;
+    text-decoration-line: underline;
 }
 
 .Steam{
@@ -22,18 +23,52 @@ body{
 }
 .TerrariaImg{
     display: block;
-    margin: auto;
+    margin: 20px auto auto auto;
     width: 500px;
 }
 .Terraria{
-    font-size: 20px;
-    color: white;
+    font-size: 30px;
+    color:rgb(228, 221, 221);
     text-align: center;
     background-color: rgb(61, 61, 113);
-    height: 600px;
+    height: 500px;
     border: 5px solid black;
     margin: 25px;
 }
 .TerrariaText{
+    margin: 25px;
+}
+.HKImg{
+    display: block;
+    margin: 20px auto auto auto;
+    width: 500px;
+}
+.HK{
+    font-size: 30px;
+    color: rgb(228, 221, 221);
+    text-align: center;
+    background-color: rgb(61, 61, 113);
+    height: 500px;
+    border: 5px solid black;
+    margin: 25px;
+}
+.HKText{
+    margin: 25px;
+}
+.ValheimImg{
+    display: block;
+    margin: 20px auto auto auto;
+    width: 500px;
+}
+.Valheim{
+    font-size: 30px;
+    color: rgb(228, 221, 221);
+    text-align: center;
+    background-color: rgb(61, 61, 113);
+    height: 500px;
+    border: 5px solid black;
+    margin: 25px;
+}
+.ValheimText{
     margin: 25px;
 }
